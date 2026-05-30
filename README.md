@@ -18,6 +18,9 @@ Power BI dashboard connected to MySQL database for Netflix data analysis.
 - Content by Country Analysis  
 - Genre-wise Distribution
 - Yearly Release Trends
+# Netflix Power BI + MySQL Project
+
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+
+![Dashboard](Netflix%20Dashboard-using%20mysql%20-%20Pbi.png)
 - 
